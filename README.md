@@ -25,7 +25,7 @@ This application is for helping people create amazing readmes in a mater of minu
 ## Demo
 ![alt text](./walkthrough.gif "Gif of walk through of using CLI")
 <br>
-[Example readme created](https://github.com/AaronLarsh/ReadMeGenerator/blob/master/README.md)
+[Example readme created](https://github.com/AaronLarsh/ReadMeGenerator/blob/master/newReadME.md)
 ---
 ## Questions
 GitHub: https://github.com/aaronlarsh
@@ -33,6 +33,4 @@ GitHub: https://github.com/aaronlarsh
 Email: aaronlarsh@hotmail.com
   
 ---
-
-Navigate to: [My App](https://github.com/AaronLarsh/ReadMeGenerator)
 
