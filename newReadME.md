@@ -1,6 +1,9 @@
-  # ${data.title}
 
-  ## ${data.description}
+  # My first project
+
+  ## Description
+  
+  This a project
 
   ---
   ## Table of Contents
@@ -10,31 +13,31 @@
   * [Contributing](#Contributing)
   * [Tests](#Tests)
   * [Questions](#Questions)
-  * 
+
   ---
   ## Installation
-  ${data.installation}
+  1. install 2. run
 
   ---
   ## Usage
-  ${data.usage}
+  To help people
     
   ---
   ## License
-  ${data.license}
+  MIT
     
   ---
   ## Contributing
-  ${data.contributing}
+  Reach out to me!
     
   ---
   ## Tests
-  ${data.tests}
+  Use jest!
     
   ---
   ## Questions
-  GitHub: [${data.gitHub}](https://github.com/${data.gitHub})
+  GitHub: [aaronlarsh](https://github.com/aaronlarsh)
   <br>
-  Email: ${data.email}
+  Email: aaronlarsh@hotmail.com
     
   ---
